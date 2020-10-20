@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World! 👋
+
+I'm currently working as a Software Engineer @ IBM. 
+
+⚡ I'm super passionate about scalable cloud computing, software engineering, and DevOps.
+
+📫 Email me at cpg3rb@virginia.edu
 
 <!--
 **cpgeier/cpgeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
